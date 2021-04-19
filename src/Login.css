@@ -1,0 +1,14 @@
+.Login{
+	display: grid;
+	place-items:center;
+	background-color: #f2f2f2;
+	height: 100vh;
+}
+.Login_container {
+	display: flex;
+	flex-direction: column;
+}
+.Login_container >img{
+	object-fit: contain;
+	height: 200px;
+}
